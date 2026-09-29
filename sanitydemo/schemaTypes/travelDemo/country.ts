@@ -23,7 +23,7 @@ export const country = defineType({
 
         defineField({
             name: "Country_Code",
-            type: "number"
+            type: "string"
         }),
 
         defineField({
