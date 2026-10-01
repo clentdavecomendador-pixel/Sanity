@@ -1,0 +1,4 @@
+export const Reset = `
+margin: 0;
+padding: 0;
+`
